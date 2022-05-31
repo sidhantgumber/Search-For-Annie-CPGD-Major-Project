@@ -1,0 +1,530 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6773818179098286507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: 964070ca-8b28-4b4f-ac48-fdee3f99eea4
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  text: Gobi ke paraanthe
+  children:
+  - 2e2ffdc0-f4c5-4413-86a8-a4da5720e47e
+  rect:
+    serializedVersion: 2
+    x: 1337
+    y: 490
+    width: 200
+    height: 100
+--- !u!114 &-3678163902734536270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: 55f9c026-8279-4a3a-9fd7-92f4b03b8041
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  text: Well, the entire town is full of Drolia's thugs, take them all out. And get
+    some weapons from the pavement ahead
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 1805
+    y: 177
+    width: 200
+    height: 100
+--- !u!114 &-2714601250342296409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: 27234e4b-8dc7-41df-9472-1efbb9b7a762
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  text: Paneer ke paraanthe
+  children:
+  - d06f31bf-e468-425b-a9c4-1b4b3495cf3b
+  rect:
+    serializedVersion: 2
+    x: 1337
+    y: 824
+    width: 200
+    height: 100
+--- !u!114 &-1364074078162837118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: ab7cb95d-98ce-45f2-82a5-659124195294
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  text: Well, the entire town is full of Drolia's thugs, take them all out. And get
+    some weapons from the pavement ahead
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 1837
+    y: 824
+    width: 200
+    height: 100
+--- !u!114 &-1250633567727194436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: bc443e5c-4981-41c0-8d9e-dffcb910c1ef
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  text: Those threats will work on someone who still has something to lose. What
+    do I have to do?
+  children:
+  - c08ada32-3cc8-45f7-9642-261bd3a9392a
+  rect:
+    serializedVersion: 2
+    x: 1319
+    y: 691
+    width: 200
+    height: 100
+--- !u!114 &-1203767854124451445
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: e1dd099f-bbdb-4d5c-a04d-ed6860ecc769
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  text: Well, the entire town is full of Drolia's thugs, take them all out. And get
+    some weapons from the pavement ahead
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 1591
+    y: 1
+    width: 200
+    height: 100
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 083abee911ed6ab44b4bbc2d63c4fb0a, type: 3}
+  m_Name: Start Dialogue
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 2511284362630547784}
+  - {fileID: 4301360203865213822}
+  - {fileID: 3192030803184310888}
+  - {fileID: 8767136761283500414}
+  - {fileID: 3756366560725142322}
+  - {fileID: 4287740151110462071}
+  - {fileID: 1074031190351364802}
+  - {fileID: 5839433239638530392}
+  - {fileID: 4523261194141519796}
+  - {fileID: 3010145876096593437}
+  - {fileID: -1250633567727194436}
+  - {fileID: -6773818179098286507}
+  - {fileID: -2714601250342296409}
+  - {fileID: -1203767854124451445}
+  - {fileID: 173452407738061305}
+  - {fileID: 8167816920306474650}
+  - {fileID: 1366134153995526723}
+  - {fileID: -3678163902734536270}
+  - {fileID: 7221052735517621736}
+  - {fileID: 8384027337126406546}
+  - {fileID: 3867671064269772301}
+  - {fileID: -1364074078162837118}
+  newNodeOffset: {x: 250, y: 0}
+--- !u!114 &173452407738061305
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: 7634d11b-be76-480b-8bc6-0832dcf7bf6b
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  text: Well, the entire town is full of Drolia's thugs, take them all out. And get
+    some weapons from the pavement ahead
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 1601
+    y: 368
+    width: 200
+    height: 100
+--- !u!114 &1074031190351364802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: 672bf6d9-59ec-4fd1-b4c9-bb27bfd99e6e
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  text: I know you're grieving, but if you talk to me like that once again, I'll
+    kill you faster than that nuke ever could
+  children:
+  - bc443e5c-4981-41c0-8d9e-dffcb910c1ef
+  - 27234e4b-8dc7-41df-9472-1efbb9b7a762
+  rect:
+    serializedVersion: 2
+    x: 1000
+    y: 629
+    width: 200
+    height: 100
+--- !u!114 &1366134153995526723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: ea88fc01-445b-4c3b-a64c-3430702674d2
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  text: I don't think zomato is operational in a post apocalyptic wasteland
+  children:
+  - 55f9c026-8279-4a3a-9fd7-92f4b03b8041
+  rect:
+    serializedVersion: 2
+    x: 1555
+    y: 177
+    width: 200
+    height: 100
+--- !u!114 &2511284362630547784
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: 0d508819-6168-4ea0-afdc-46a70d5cdace
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  text: Listen kid, I know you're still recovering from her loss but there's work
+    to be done.
+  children:
+  - 9f2bb06f-1cc9-4ddf-aee7-ca73ab3575db
+  - 4f5ae934-be02-4eee-a697-b6ecbe3770f2
+  - 7f497c9c-597a-408b-8a61-6b284079aaa7
+  rect:
+    serializedVersion: 2
+    x: 348
+    y: 270
+    width: 200
+    height: 100
+--- !u!114 &3010145876096593437
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: 59e6b927-5fab-4907-a208-b66c61318286
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  text: Mooli ke paraanthe
+  children:
+  - ea88fc01-445b-4c3b-a64c-3430702674d2
+  rect:
+    serializedVersion: 2
+    x: 1305
+    y: 178
+    width: 200
+    height: 100
+--- !u!114 &3192030803184310888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: 4f5ae934-be02-4eee-a697-b6ecbe3770f2
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  text: Jeez, I can't even shed a tear in peace huh
+  children:
+  - a55adb72-508c-4058-8534-60f02e0aa227
+  rect:
+    serializedVersion: 2
+    x: 759
+    y: 378
+    width: 200
+    height: 100
+--- !u!114 &3756366560725142322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: 7f497c9c-597a-408b-8a61-6b284079aaa7
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  text: With all due respect, shut the fuck up.
+  children:
+  - 672bf6d9-59ec-4fd1-b4c9-bb27bfd99e6e
+  rect:
+    serializedVersion: 2
+    x: 754
+    y: 733
+    width: 200
+    height: 100
+--- !u!114 &3867671064269772301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: d06f31bf-e468-425b-a9c4-1b4b3495cf3b
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  text: I don't think zomato is operational in a post apocalyptic wasteland
+  children:
+  - ab7cb95d-98ce-45f2-82a5-659124195294
+  rect:
+    serializedVersion: 2
+    x: 1587
+    y: 824
+    width: 200
+    height: 100
+--- !u!114 &4287740151110462071
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: b201aa8d-6057-4b41-b71e-5aba1a886301
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  text: Well kiddo only time will tell, now are you ready for your task for the day?
+  children:
+  - 9639ff3a-8580-479c-b6e4-7e2fe76958f7
+  - 59e6b927-5fab-4907-a208-b66c61318286
+  rect:
+    serializedVersion: 2
+    x: 1020
+    y: 59
+    width: 200
+    height: 100
+--- !u!114 &4301360203865213822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: 9f2bb06f-1cc9-4ddf-aee7-ca73ab3575db
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  text: I told you, Annie Isn't dead, she had to have survived
+  children:
+  - b201aa8d-6057-4b41-b71e-5aba1a886301
+  rect:
+    serializedVersion: 2
+    x: 762
+    y: 116
+    width: 200
+    height: 100
+--- !u!114 &4523261194141519796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: 6785b38f-9401-445b-9113-7c0d3ee8932f
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  text: That's true, what do I have to do?
+  children:
+  - 7634d11b-be76-480b-8bc6-0832dcf7bf6b
+  rect:
+    serializedVersion: 2
+    x: 1351
+    y: 368
+    width: 200
+    height: 100
+--- !u!114 &5839433239638530392
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: 9639ff3a-8580-479c-b6e4-7e2fe76958f7
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  text: Well billy what do I have to do?
+  children:
+  - e1dd099f-bbdb-4d5c-a04d-ed6860ecc769
+  rect:
+    serializedVersion: 2
+    x: 1313
+    y: 4
+    width: 200
+    height: 100
+--- !u!114 &7221052735517621736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: 2e2ffdc0-f4c5-4413-86a8-a4da5720e47e
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  text: I don't think zomato is operational in a post apocalyptic wasteland
+  children:
+  - 14e9c7c0-fbde-45ba-b212-930dc07bf97f
+  rect:
+    serializedVersion: 2
+    x: 1588
+    y: 484
+    width: 200
+    height: 100
+--- !u!114 &8167816920306474650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: c08ada32-3cc8-45f7-9642-261bd3a9392a
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  text: Well, the entire town is full of Drolia's thugs, take them all out. And get
+    some weapons from the pavement ahead
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 1569
+    y: 691
+    width: 200
+    height: 100
+--- !u!114 &8384027337126406546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: 14e9c7c0-fbde-45ba-b212-930dc07bf97f
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  text: Well, the entire town is full of Drolia's thugs, take them all out. And get
+    some weapons from the pavement ahead
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 1838
+    y: 484
+    width: 200
+    height: 100
+--- !u!114 &8767136761283500414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: a55adb72-508c-4058-8534-60f02e0aa227
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  text: Do you think any of us have had a moment's peace since the blast?
+  children:
+  - 6785b38f-9401-445b-9113-7c0d3ee8932f
+  - 964070ca-8b28-4b4f-ac48-fdee3f99eea4
+  rect:
+    serializedVersion: 2
+    x: 1034
+    y: 415
+    width: 200
+    height: 100

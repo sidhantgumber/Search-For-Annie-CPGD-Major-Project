@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebfb61e1bd88f73438196d435bc88885, type: 3}
+  m_Name: Enemy AR
+  m_EditorClassIdentifier: 
+  itemDisplayIcon: {fileID: 164508667720118075, guid: 33241e1af56d9294ea4943423126e37c, type: 3}
+  type: 0
+  description: 
+  weaponDamage: 2
+  weaponRange: 2
+  weaponOverrideController: {fileID: 22100000, guid: 289f057e7a56241418835bdbf5759370, type: 2}
+  equippedWeaponPrefab: {fileID: 588030022677176244, guid: d2efcf7b9750200499c0f2f584b9e359, type: 3}
+  isRanged: 1
+  projectile: {fileID: 8348616048391586630, guid: fe0c972ebf4c1064eaa96dc44c7d7023, type: 3}

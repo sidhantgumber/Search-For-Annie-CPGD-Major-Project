@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-2785454904136233243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: c696e0cd-413d-46ed-99c3-2964a43e8ec1
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  text: Not hello
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 258
+    y: 175
+    width: 200
+    height: 100
+--- !u!114 &-391559634267298254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: c4c7302d-2e71-449c-88d5-5915de7ff650
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  text: Hello there
+  children:
+  - 8e94d1f6-5b74-4b32-bce6-bb68bc0e32e1
+  - c696e0cd-413d-46ed-99c3-2964a43e8ec1
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 200
+    height: 100
+--- !u!114 &-33770554750606756
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: 8e94d1f6-5b74-4b32-bce6-bb68bc0e32e1
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  text: Hello
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 249
+    y: 41
+    width: 200
+    height: 100
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 083abee911ed6ab44b4bbc2d63c4fb0a, type: 3}
+  m_Name: New Dialogue
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: -391559634267298254}
+  - {fileID: -33770554750606756}
+  - {fileID: -2785454904136233243}
+  newNodeOffset: {x: 250, y: 0}

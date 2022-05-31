@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-1056813466910732844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: dd54ed17-f7fe-42bd-884d-a1aab9d11ed8
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  text: Hello raam raam
+  children:
+  - 1d7b1247-a21d-4c70-ac5c-5c4a2e33d91b
+  rect:
+    serializedVersion: 2
+    x: 95
+    y: 283
+    width: 200
+    height: 100
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 083abee911ed6ab44b4bbc2d63c4fb0a, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: -1056813466910732844}
+  - {fileID: 8239862442017964218}
+  newNodeOffset: {x: 250, y: 0}
+--- !u!114 &8239862442017964218
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
+  m_Name: 1d7b1247-a21d-4c70-ac5c-5c4a2e33d91b
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  text: Raam Raam
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 496
+    y: 149
+    width: 200
+    height: 100
