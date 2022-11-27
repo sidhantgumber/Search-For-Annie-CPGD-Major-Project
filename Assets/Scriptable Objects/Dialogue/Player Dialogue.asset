@@ -17,11 +17,10 @@ MonoBehaviour:
   children:
   - 8364601e-f9a2-4f30-b6f9-ed6ea543a978
   - 42fd473f-3754-46d7-b061-1ad7817eb8e7
-  - 7e454701-e297-4626-929a-1c57e8d8c9bf
   rect:
     serializedVersion: 2
-    x: 64
-    y: 248
+    x: 35
+    y: 193
     width: 200
     height: 400
 --- !u!114 &-6553751692676090513
@@ -43,27 +42,6 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1486
     y: 356
-    width: 200
-    height: 100
---- !u!114 &-5991214044843506799
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
-  m_Name: f05dd24e-279a-4f42-9086-3d2e0269fd4b
-  m_EditorClassIdentifier: 
-  isPlayerSpeaking: 0
-  text: Haan
-  children: []
-  rect:
-    serializedVersion: 2
-    x: 1407
-    y: 806
     width: 200
     height: 100
 --- !u!114 &-5157405625132008657
@@ -133,28 +111,6 @@ MonoBehaviour:
     y: 157
     width: 200
     height: 100
---- !u!114 &-1641134943170720195
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
-  m_Name: 7e454701-e297-4626-929a-1c57e8d8c9bf
-  m_EditorClassIdentifier: 
-  isPlayerSpeaking: 1
-  text: Mooli ke pronthe
-  children:
-  - fd1c1958-4e64-4979-8c8e-c4554e3fb8b5
-  rect:
-    serializedVersion: 2
-    x: 450
-    y: 565
-    width: 200
-    height: 100
 --- !u!114 &-1321928841416684404
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -194,17 +150,11 @@ MonoBehaviour:
   - {fileID: 762135877221883854}
   - {fileID: -4222522423802549687}
   - {fileID: -1321928841416684404}
-  - {fileID: -1641134943170720195}
   - {fileID: 7992445142210613912}
-  - {fileID: 3366411381862210920}
   - {fileID: 2594471287115660672}
   - {fileID: -4351206632106774568}
   - {fileID: 1037028260789428432}
   - {fileID: -5157405625132008657}
-  - {fileID: 4627008391681144637}
-  - {fileID: 8795090370874097405}
-  - {fileID: -5991214044843506799}
-  - {fileID: 2749921826725133023}
   - {fileID: 2096093595704885992}
   - {fileID: -6553751692676090513}
   - {fileID: 8987171771616302536}
@@ -297,50 +247,6 @@ MonoBehaviour:
     y: 41
     width: 200
     height: 100
---- !u!114 &2749921826725133023
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
-  m_Name: e5ce8ec2-e4b4-4990-856d-ff5bbde3cb0b
-  m_EditorClassIdentifier: 
-  isPlayerSpeaking: 0
-  text: Nahi
-  children: []
-  rect:
-    serializedVersion: 2
-    x: 1431
-    y: 596
-    width: 200
-    height: 100
---- !u!114 &3366411381862210920
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
-  m_Name: fd1c1958-4e64-4979-8c8e-c4554e3fb8b5
-  m_EditorClassIdentifier: 
-  isPlayerSpeaking: 0
-  text: Aage se right, golu dhaba
-  children:
-  - 9b8d742c-f6de-4fe6-adf9-0b6dc7a8d81d
-  - ac8c0696-da07-4a7a-ae2f-8ba213126ab0
-  rect:
-    serializedVersion: 2
-    x: 808
-    y: 706
-    width: 200
-    height: 100
 --- !u!114 &4226652143663514073
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -360,28 +266,6 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1493
     y: 41
-    width: 200
-    height: 100
---- !u!114 &4627008391681144637
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
-  m_Name: 9b8d742c-f6de-4fe6-adf9-0b6dc7a8d81d
-  m_EditorClassIdentifier: 
-  isPlayerSpeaking: 1
-  text: Chalega saath khaane?
-  children:
-  - e5ce8ec2-e4b4-4990-856d-ff5bbde3cb0b
-  rect:
-    serializedVersion: 2
-    x: 1181
-    y: 596
     width: 200
     height: 100
 --- !u!114 &7992445142210613912
@@ -405,28 +289,6 @@ MonoBehaviour:
     serializedVersion: 2
     x: 893
     y: 374
-    width: 200
-    height: 100
---- !u!114 &8795090370874097405
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f19f85fab9437414e8d8e96931e4bd10, type: 3}
-  m_Name: ac8c0696-da07-4a7a-ae2f-8ba213126ab0
-  m_EditorClassIdentifier: 
-  isPlayerSpeaking: 1
-  text: Gobi ke milenge?
-  children:
-  - f05dd24e-279a-4f42-9086-3d2e0269fd4b
-  rect:
-    serializedVersion: 2
-    x: 1157
-    y: 806
     width: 200
     height: 100
 --- !u!114 &8987171771616302536
